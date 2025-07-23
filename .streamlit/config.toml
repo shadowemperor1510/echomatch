@@ -1,0 +1,4 @@
+[runner]
+# Specify an older Python version compatible with pydub.
+# Python 3.11 is a good choice for compatibility.
+python_version = "3.11"
