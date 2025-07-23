@@ -4,4 +4,5 @@ pydub
 scipy>=1.7.3
 torch
 torchaudio
+transformers
 ffmpeg-python
